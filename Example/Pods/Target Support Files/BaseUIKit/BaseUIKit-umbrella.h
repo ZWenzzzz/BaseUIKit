@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "Action_viewController.h"
+#import "Target_A.h"
 
 FOUNDATION_EXPORT double BaseUIKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char BaseUIKitVersionString[];
