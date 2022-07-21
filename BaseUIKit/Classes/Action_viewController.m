@@ -15,9 +15,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor whiteColor];
     
     UILabel *label = [[UILabel alloc] init];
     label.text = @"Action ViewController";
+    label.textColor = [UIColor blackColor];
     [label sizeToFit];
     label.center = self.view.center;
     [self.view addSubview:label];
