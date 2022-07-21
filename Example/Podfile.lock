@@ -1,0 +1,16 @@
+PODS:
+  - BaseUIKit (0.1.0)
+
+DEPENDENCIES:
+  - BaseUIKit (from `../`)
+
+EXTERNAL SOURCES:
+  BaseUIKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BaseUIKit: e5bd03679e4cc1a3b0de90479f2eba9daca938b0
+
+PODFILE CHECKSUM: d76b7d49972df4359ee30e05f2605b3620bf31be
+
+COCOAPODS: 1.11.2

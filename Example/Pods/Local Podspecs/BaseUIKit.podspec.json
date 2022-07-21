@@ -1,0 +1,22 @@
+{
+  "name": "BaseUIKit",
+  "version": "0.1.0",
+  "summary": "BaseUIKit是一个基础UI组件库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZWenzzzz/BaseUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wen": "zhangwengcd@163.com"
+  },
+  "source": {
+    "git": "https://github.com/ZWenzzzz/BaseUIKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "BaseUIKit/Classes/**/*.{h,m}"
+}
